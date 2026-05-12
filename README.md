@@ -1,1 +1,0 @@
-# R-Programlama-Kodlar
